@@ -1,0 +1,26 @@
+[
+    {
+      "first_name": "Killian",
+      "last_name": "Owens-Findlater",
+      "student_id": 1000029065,
+      "github": "sicklykilli"
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Winton",
+      "student_id": 1000024564,
+      "github": "s-winton"
+    },
+    {
+      "first_name": "Kaleb",
+      "last_name": "Cowie",
+      "student_id": 1000029564,
+      "github": "k-Cowie"
+    },
+    {
+      "first_name": "Zach",
+      "last_name": "Pepper",
+      "student_id": 1000376489,
+      "github": "ZachariahPepper"
+    }
+]

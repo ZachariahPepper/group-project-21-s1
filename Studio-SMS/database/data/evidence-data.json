@@ -1,0 +1,27 @@
+[
+    {
+        "student_id": 1,
+        "url": "www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "description": "this student submitted a link to reddit instead of his assignment!"
+    },
+    {
+        "student_id": 2,
+        "url": "www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "description": "go google my assignment"
+    },
+    {
+        "student_id": 3,
+        "url": "www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "description": "huh? I just watched youtube lmao"
+    },
+    {
+        "student_id": 4,      
+        "url": "www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "description": "you'll find what your looking for at polytech"
+    },
+    {
+        "student_id": 4,
+        "url": "www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "description": "here is my assignment"
+    }
+]
