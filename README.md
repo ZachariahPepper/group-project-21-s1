@@ -1,5 +1,5 @@
-# group-project-21-1-polio
-group-project-21-1-polio created by GitHub Classroom
+# group-project-21-s1
+group-project-21-s1 created by GitHub Classroom
 
 URL to the Heroku App: http://aqueous-harbor-23888.herokuapp.com/  
 Login: admin@studio.sms  
